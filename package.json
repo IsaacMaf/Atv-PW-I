@@ -1,0 +1,23 @@
+{
+  "name": "atv-pw-i",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacMaf/Atv-PW-I.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacMaf/Atv-PW-I/issues"
+  },
+  "homepage": "https://github.com/IsaacMaf/Atv-PW-I#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
